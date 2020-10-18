@@ -8,11 +8,11 @@
 
   Hello, my name is Lucas, I am currently a student of Computer Engineering at the State University of Ponta Grossa, and I work as a Volunteer Developer at E²C Jr. (Junior Computer Engineering Company) at the same university.
 
-- :office_worker: I am currently working with HTML5, CSS3,  JS + Bootstrap, JQuery, ReactJS, WordPress;
+- :office_worker: I am currently working with HTML5 & CSS3 & JS + Bootstrap, JQuery, ReactJS & React Native + Node.js, WordPress;
 
 And always studying and discovering the world of Javascript and Typescript, with:  
 - :books: React Native, ReactJS, NodeJS and its entire ecosystem :heart:
-- :books: Studying too: SASS, SQL Databases, WebPack, Babel and Amazon Web Services
+- :books: Studying too: SASS, SQL Databases, Docker and Amazon Web Services
 
 **Languages and Tools:**
 
