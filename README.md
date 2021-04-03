@@ -11,7 +11,7 @@
 - :office_worker: I am currently working with HTML5/CSS3/JS + Bootstrap, ReactJS & React Native + Node.js, Angular.js, C# + .NET;
 
 And always discovering new tecnologies and studying stuff like:  
-- :books: GraphQL, Next.js, Vue.js, Heroku and Amazon Web Services.
+- :books: GraphQL, Next.js, Vue.js, Heroku and Amazon Web Services, ASP.NET.
 
 **Languages and Tools:**
 
@@ -25,6 +25,7 @@ And always discovering new tecnologies and studying stuff like:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
