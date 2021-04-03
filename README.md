@@ -11,7 +11,7 @@
 - :office_worker: I am currently working with HTML5/CSS3/JS + Bootstrap, ReactJS & React Native + Node.js, Angular.js, C# + .NET;
 
 And always discovering new tecnologies and studying stuff like:  
-- :books: GraphQL, Next.js, Vue.js, Heroku and Amazon Web Services, ASP.NET.
+- :books: GraphQL, Next.js, Vue.js, Heroku, Amazon Web Services and ASP.NET.
 
 **Languages and Tools:**
 
