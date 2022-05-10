@@ -6,7 +6,7 @@
 
 ## Hi! 👋
 
-  Hello, my name is Lucas, I am currently a student of Computer Engineering at the State University of Ponta Grossa. I work as a Volunteer Developer at E²C Jr. (Junior Computer Engineering Company) at the same university and as intern on RERUM Systems Engineering.
+  Hello, my name is Lucas, I am currently a student of Computer Engineering at the State University of Ponta Grossa. I worked as a Volunteer Developer at E²C Jr. (Junior Computer Engineering Company) at the same university from 2020 to mid-2021 and currently work as intern on RERUM Systems Engineering since 2020.
 
 **Languages, frameworks & tools:**
 
