@@ -19,22 +19,21 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-
-
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=GitLab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![VStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=flat-square&logo=Sentry&logoColor=white)
+<!--![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)-->
+<!--![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=flat-square&logo=Sentry&logoColor=white)-->
 
 
 <!--## My Stats-->
