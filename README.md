@@ -26,6 +26,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-323330?style=flat-square&logo=Sequelize&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=GitLab&logoColor=white)
