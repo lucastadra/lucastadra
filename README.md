@@ -41,7 +41,7 @@
 <!--![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat-square&logo=typeorm&logoColor=white)-->
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=GitLab&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=GitLab&logoColor=orange)
 
 ![Yarn](https://img.shields.io/badge/Yarn-2188b6?style=flat-square&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-181717?style=flat-square&logo=npm&logoColor=red)
