@@ -6,7 +6,7 @@
 
 ## Hi! 👋
 
-  Hello, my name is Lucas, I am currently a student of Computer Engineering at the State University of Ponta Grossa. I worked as a Volunteer Developer at E²C Jr. (Junior Computer Engineering Company) at the same university from 2020 to mid-2021 and as Fullstack Developer on RERUM Systems Engineering from dec/2020 to jan/2023.
+  Hello, my name is Lucas, I am currently a student of Computer Engineering at the State University of Ponta Grossa. I worked as a Volunteer Developer at E²C Jr. (Junior Computer Engineering Company) at the same university from 2020 to mid-2021 and currently working as Jr Fullstack Developer at Viceri-Seidor.
 
 **Languages**
 
