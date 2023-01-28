@@ -49,13 +49,12 @@
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![VStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android&nbsp;Studio-3DDC84?style=flat-square&logo=android&logoColor=white)
-![XCode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+![Arduino IDE](https://img.shields.io/static/v1?style=flat-square&message=Arduino+IDE&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
+<!--![Android Studio](https://img.shields.io/badge/Android&nbsp;Studio-3DDC84?style=flat-square&logo=android&logoColor=white)-->
+<!--![XCode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)-->
 <!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)-->
 <!--![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)-->
 <!--![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=flat-square&logo=Sentry&logoColor=white)-->
-
-
 
 <!--## My Stats-->
 <div align="left">
