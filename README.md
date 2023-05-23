@@ -6,7 +6,7 @@
 
 ## Hi! 👋
 
-  Hello, my name is Lucas, I am currently a student of Computer Engineering at the State University of Ponta Grossa. I worked as a Volunteer Developer at E²C Jr. (Junior Computer Engineering Company) at the same university from 2020 to mid-2021 and currently working as Jr Fullstack Developer at Viceri-Seidor.
+  Hello, my name is Lucas, I am a Computer Engineer graduated from the State University of Ponta Grossa and currently I am working as Fullstack Developer at Viceri-Seidor.
 
 **Languages**
 
@@ -34,9 +34,10 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Amazon AWS](https://img.shields.io/static/v1?style=flat-square&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
-
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 <!--![Sequelize](https://img.shields.io/badge/Sequelize-323330?style=flat-square&logo=Sequelize&logoColor=blue)-->
-<!--![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat-square&logo=typeorm&logoColor=white)-->
+
+
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=GitLab&logoColor=orange)
