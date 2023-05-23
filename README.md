@@ -6,7 +6,7 @@
 
 ## Hi! 👋
 
-  Hello, my name is Lucas, I am a Computer Engineer graduated from the State University of Ponta Grossa and currently I am working as Fullstack Developer at Viceri-Seidor.
+  Hello, my name is Lucas, I am a Computer Engineer graduated from the State University of Ponta Grossa and I am currently working as Fullstack Developer at Viceri-Seidor.
 
 **Languages**
 
